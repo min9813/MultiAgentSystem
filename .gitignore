@@ -1,0 +1,12 @@
+*.ipynb
+*.png
+*.csv
+*.jpeg
+*.jpg
+__pycache__
+.ipynb_checkpoints
+/chainer-gan-lib/
+/result
+*.sh
+!/abc_result
+!/pso_result
